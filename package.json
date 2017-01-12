@@ -1,0 +1,25 @@
+{
+  "name": "botswarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botswarm/botswarm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botswarm/botswarm/issues"
+  },
+  "homepage": "https://github.com/botswarm/botswarm#readme",
+  "dependencies": {
+    "dotenv-safe": "^4.0.3",
+    "prettier": "0.0.5",
+    "slackbots": "^1.0.2"
+  }
+}
